@@ -40,22 +40,6 @@ Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/sorting-visualizer.git
-
-
-Navigate into the directory:
-
-cd sorting-visualizer
-
-
-Install dependencies:
-
-npm install
-
 
 Start the development server:
 
